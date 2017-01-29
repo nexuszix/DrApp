@@ -1,3 +1,5 @@
+# coding=utf8
+
 from rest_framework import serializers
 from dbapi.models import DrMas
 
